@@ -1,5 +1,7 @@
 # vue-animations
 
+Adding animation to vue using transition element provided by and GSAP
+
 ## Project setup
 ```
 npm install
